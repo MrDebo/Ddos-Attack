@@ -18,18 +18,24 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet DDos Attack")
+os.system("cowsay -f daemon DDos Attack | lolcat")
+os.system("toilet -f standard MR.DEBO -F gay")
 print
-print "Author   : MR.DEBO"
-print "Github   : https://github.com/MrDebo"
-print "Facebook : https://www.facebook.com/mas.debo.02"
-print "WhatsApp : 081539279932"
+print "<=================={0}==================>"
+print "| Author    : MR.DEBO                   |"
+print "| Github    : https://github.com/MrDebo |"
+print "| Team      : BLACK EAGLE CYBER         |"
+print "| Instagram : dikadebo02                |"
+print "| WhatsApp  : 081539279932              |"
+print "<=================={0}==================>"
 print
 ip = raw_input("IP Target : ")
-port = input("Port       : ")
+port = input ("Port      : ")
 
 os.system("clear")
-os.system("figlet Attack Starting")
+os.system("cowsay -f daemon Mr.Debo | lolcat")
+os.system("toilet -f standard Attacking . . . | lolcat")
+print
 print "[====                    ] 0%"
 time.sleep(5)
 print "[=======                 ] 15%"
