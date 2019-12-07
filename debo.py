@@ -18,6 +18,21 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
+print ("W e l c o m e . .  ")
+time.sleep(1)
+os.system("clear")
+print ("L o a d i n g . . .")
+time.sleep(2)
+os.system("clear")
+print ("P l e a s e  W a i t . . .")
+time.sleep(3)
+print
+os.system("clear")
+print ("T o o l s  B y  M r D e b o")
+time.sleep(5)
+print
+
+os.system("clear")
 os.system("cowsay -f daemon DDos Attack | lolcat")
 os.system("toilet -f standard MR.DEBO -F gay")
 print
