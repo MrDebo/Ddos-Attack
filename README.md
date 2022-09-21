@@ -1,4 +1,4 @@
-# Ddos-Attack
+### Ddos-Attack
 
 DDOS (denial-of-service attacks) adalah jenis serangan yang dilakukan dengan cara membanjiri lalu lintas jaringan internet pada server, sistem, atau jaringan.
 #### CARA INSTALL SCRIPT:
@@ -14,4 +14,4 @@ Download aplikasi termux android di [sini!](https://f-droid.org/repo/com.termux_
 <li><code>$ ls (huruf L&S kecil)</code></li>
 <li><code>$ python2 Ddos.py</code></li>
 <br/>
-<img src="https://github.com/MrDebo/Dark-FbV2.5/blob/main/Screenshot_by_debo.jpg" />
+<img src="https://github.com/MrDebo/Ddos-Attack/blob/master/Screenshot_2022-09-21-16-46-01-808_com.termux.jpg" />
